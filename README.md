@@ -1,16 +1,14 @@
-# calendar_app
+# Calendar App
 
-A new Flutter project.
+A **Calendar App** built using **Flutter** and **Hive** for local data storage. This app allows users to create, edit, and delete events, view events by date, and manage their schedule effectively.
 
-## Getting Started
+![Screenshot_1727700592](https://github.com/user-attachments/assets/498ae1d6-8824-44db-a615-d2eb3925c505)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Events**: Create events with a title, description, and date.
+- **Edit/Delete Events**: Modify or remove events as needed.
+- **View Events by Date**: Select a date to view all events scheduled for that day.
+- **Local Data Persistence**: Events are stored locally using Hive, providing fast access and offline functionality.
+- **User-Friendly Interface**: Simple and intuitive design for managing events.
